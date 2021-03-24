@@ -1,5 +1,4 @@
 import { useEffect, useContext } from 'react';
-import { GenresContext } from '../contexts/GenresContext';
 import { api } from '../services/api';
 import { Button } from './Button';
 
